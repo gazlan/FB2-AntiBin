@@ -1,0 +1,7 @@
+-*-   AntiBin 1.0   *   Copyright  (c)  Gazlan, 2014   -*-
+
+Remove FB2 files binary part
+
+Usage: antibin.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
